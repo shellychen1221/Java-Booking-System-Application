@@ -109,7 +109,7 @@ public class BookingSystem {
 		
 		JLabel lblNewLabel_1 = new JLabel("");
 		lblNewLabel_1.setBackground(new Color(255, 250, 205));
-		lblNewLabel_1.setIcon(new ImageIcon("booking-hotel-online-cartoon-icon-illustration-business-technology-icon-concept_138676-2126.jpg"));
+		lblNewLabel_1.setIcon(new ImageIcon("booking-hotel-online.jpg"));
 		lblNewLabel_1.setBounds(103, 431, 337, 243);
 		frmMenu.getContentPane().add(lblNewLabel_1);
 		JLabel lblNewLabel_3 = new JLabel("Welcome to our Booking system!");
@@ -131,7 +131,7 @@ public class BookingSystem {
 		frmMenu.getContentPane().add(lblNewLabel_2);
 		
 		JLabel lblRoom2 = new JLabel("");
-		lblRoom2.setIcon(new ImageIcon("unnamed.jpg"));
+		lblRoom2.setIcon(new ImageIcon("room.jpg"));
 		lblRoom2.setFont(new Font("Yu Gothic UI", Font.PLAIN, 16));
 		lblRoom2.setBounds(290, 190, 230, 158);
 		frmMenu.getContentPane().add(lblRoom2);

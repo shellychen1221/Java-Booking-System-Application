@@ -169,7 +169,7 @@ public class BookingSystem3 {
 		frmCancelReservation.getContentPane().add(btnCancel);	
 		
 		JLabel lblNewLabel_1 = new JLabel("");
-		lblNewLabel_1.setIcon(new ImageIcon("faq-002.png"));
+		lblNewLabel_1.setIcon(new ImageIcon("searchimage.png"));
 		lblNewLabel_1.setFont(new Font("Yu Gothic UI", Font.PLAIN, 16));
 		lblNewLabel_1.setBounds(244, 145, 378, 630);
 		frmCancelReservation.getContentPane().add(lblNewLabel_1);
